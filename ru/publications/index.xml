@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://Qurellwii.github.io/ru/publications/</link>
+      <atom:link href="https://Qurellwii.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Qurellwii.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://Qurellwii.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://Qurellwii.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://Qurellwii.github.io/ru/publications/01/</guid>
+      <description>&lt;h1 id=&#34;-что-такое-управление-версиями&#34;&gt;📚 Что такое управление версиями&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Управление версиями&lt;/strong&gt; — это процесс отслеживания и управления изменениями в файлах проекта. Чаще всего этот термин используется в разработке программного обеспечения, где важно сохранять историю изменений кода, контролировать работу нескольких разработчиков и при необходимости возвращаться к предыдущим версиям проекта.&lt;/p&gt;
+&lt;p&gt;Системы управления версиями позволяют разработчикам эффективно организовать работу над проектом и избежать потери данных.&lt;/p&gt;
+&lt;h2 id=&#34;-зачем-нужны-системы-контроля-версий&#34;&gt;⚙️ Зачем нужны системы контроля версий&lt;/h2&gt;
+&lt;p&gt;Система контроля версий решает несколько важных задач:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 &lt;strong&gt;Хранение истории изменений&lt;/strong&gt; — каждое изменение фиксируется и сохраняется.&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Возможность отката&lt;/strong&gt; — можно вернуться к любой предыдущей версии проекта.&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;Совместная работа&lt;/strong&gt; — несколько разработчиков могут работать над одним проектом одновременно.&lt;/li&gt;
+&lt;li&gt;🛠 &lt;strong&gt;Контроль изменений&lt;/strong&gt; — видно, кто и когда внес изменения в код.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это особенно важно при работе над большими проектами, где участвует команда разработчиков.&lt;/p&gt;
+&lt;h2 id=&#34;-популярные-системы-управления-версиями&#34;&gt;💻 Популярные системы управления версиями&lt;/h2&gt;
+&lt;p&gt;Существует несколько систем контроля версий, но наиболее распространённой является &lt;strong&gt;Git&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Git — это распределённая система контроля версий, которая позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;хранить историю изменений;&lt;/li&gt;
+&lt;li&gt;создавать отдельные ветки для разработки новых функций;&lt;/li&gt;
+&lt;li&gt;объединять изменения разных разработчиков;&lt;/li&gt;
+&lt;li&gt;работать с удалёнными репозиториями.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Часто Git используется вместе с платформами для хранения проектов, например &lt;strong&gt;GitHub&lt;/strong&gt;, &lt;strong&gt;GitLab&lt;/strong&gt; или &lt;strong&gt;Bitbucket&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-понятия-git&#34;&gt;🌿 Основные понятия Git&lt;/h2&gt;
+&lt;p&gt;Некоторые базовые понятия системы Git:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository (репозиторий)&lt;/strong&gt; — место хранения проекта и всей истории изменений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commit&lt;/strong&gt; — сохранённое изменение в проекте.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branch (ветка)&lt;/strong&gt; — отдельная линия разработки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Merge&lt;/strong&gt; — объединение изменений из разных веток.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти инструменты помогают разработчикам организовывать процесс разработки и поддерживать стабильность проекта.&lt;/p&gt;
+&lt;h2 id=&#34;-заключение&#34;&gt;🚀 Заключение&lt;/h2&gt;
+&lt;p&gt;Управление версиями — важная часть современной разработки программного обеспечения. Оно помогает сохранять историю проекта, организовывать совместную работу и повышать надежность разработки.&lt;/p&gt;
+&lt;p&gt;Изучение систем контроля версий, таких как Git, является необходимым навыком для любого специалиста в области IT и программирования.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
