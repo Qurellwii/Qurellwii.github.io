@@ -5,12 +5,32 @@
     <link>https://Qurellwii.github.io/ru/tags/markdown/</link>
       <atom:link href="https://Qurellwii.github.io/ru/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Qurellwii.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Markdown</title>
       <link>https://Qurellwii.github.io/ru/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://Qurellwii.github.io/ru/publications/02/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://Qurellwii.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с понятием легковесных языков разметки и их ролью в работе с текстовой информацией. Это удобный инструмент, который широко используется в IT-сфере благодаря своей простоте и читаемости.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 &lt;strong&gt;Легковесные языки разметки&lt;/strong&gt; — это способы форматирования текста с использованием простых символов, без сложной структуры, как в HTML.&lt;/li&gt;
+&lt;li&gt;✍️ Один из самых популярных примеров — &lt;strong&gt;Markdown&lt;/strong&gt;, который применяется для написания документации, заметок и даже веб-страниц.&lt;/li&gt;
+&lt;li&gt;💻 Такие языки активно используются в системах контроля версий, например, на платформах разработки, где важно быстро и удобно оформлять текст.&lt;/li&gt;
+&lt;li&gt;📚 Я узнала, как с помощью простых конструкций можно создавать заголовки, списки, ссылки и выделения текста.&lt;/li&gt;
+&lt;li&gt;⚡ Главное преимущество — читаемость: текст остаётся понятным даже без преобразования в итоговый формат.&lt;/li&gt;
+&lt;li&gt;🔧 Также легковесные языки легко конвертируются в HTML, что делает их удобными для публикации в интернете.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа с такими инструментами значительно упрощает процесс создания и оформления текстов, особенно в учебной и профессиональной деятельности.&lt;/p&gt;
+&lt;p&gt;Теперь я могу быстрее оформлять свои заметки и структурировать информацию, что делает обучение более эффективным 📖&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pandas</title>

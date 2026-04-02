@@ -5,12 +5,70 @@
     <link>https://Qurellwii.github.io/ru/publications/</link>
       <atom:link href="https://Qurellwii.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Qurellwii.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://Qurellwii.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Оформление отчёта</title>
+      <link>https://Qurellwii.github.io/ru/publications/03/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://Qurellwii.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-оформление-отчёта&#34;&gt;📝 Оформление отчёта&lt;/h2&gt;
+&lt;p&gt;Грамотное оформление отчёта — важная часть учебного процесса. Оно не только делает работу более понятной, но и показывает уровень внимательности и ответственности автора.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📄 &lt;strong&gt;Структура работы&lt;/strong&gt;
+Отчёт должен иметь чёткую структуру: титульный лист, содержание, введение, основная часть, заключение и список литературы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🔤 &lt;strong&gt;Оформление текста&lt;/strong&gt;
+Важно соблюдать единый стиль: шрифт (чаще всего &lt;em&gt;Times New Roman&lt;/em&gt;), размер (обычно 12–14), межстрочный интервал (1.5). Поля и выравнивание также должны соответствовать требованиям.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📑 &lt;strong&gt;Нумерация страниц&lt;/strong&gt;
+Все страницы, начиная с введения, нумеруются. Титульный лист учитывается, но номер на нём не ставится.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📊 &lt;strong&gt;Таблицы и рисунки&lt;/strong&gt;
+Все иллюстрации должны быть подписаны и пронумерованы. На них обязательно должны быть ссылки в тексте.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📚 &lt;strong&gt;Список литературы&lt;/strong&gt;
+Источники оформляются по установленному стандарту. Важно соблюдать единый формат для всех ссылок.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;✍️ &lt;strong&gt;Ясность и логика изложения&lt;/strong&gt;
+Текст должен быть последовательным, без лишних повторов и с чёткими переходами между разделами.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Правильное оформление отчёта облегчает его восприятие и помогает лучше донести содержание работы.&lt;/p&gt;
+&lt;p&gt;Аккуратность в деталях — залог успешной сдачи любой учебной работы 📘&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://Qurellwii.github.io/ru/publications/02/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://Qurellwii.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с понятием легковесных языков разметки и их ролью в работе с текстовой информацией. Это удобный инструмент, который широко используется в IT-сфере благодаря своей простоте и читаемости.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 &lt;strong&gt;Легковесные языки разметки&lt;/strong&gt; — это способы форматирования текста с использованием простых символов, без сложной структуры, как в HTML.&lt;/li&gt;
+&lt;li&gt;✍️ Один из самых популярных примеров — &lt;strong&gt;Markdown&lt;/strong&gt;, который применяется для написания документации, заметок и даже веб-страниц.&lt;/li&gt;
+&lt;li&gt;💻 Такие языки активно используются в системах контроля версий, например, на платформах разработки, где важно быстро и удобно оформлять текст.&lt;/li&gt;
+&lt;li&gt;📚 Я узнала, как с помощью простых конструкций можно создавать заголовки, списки, ссылки и выделения текста.&lt;/li&gt;
+&lt;li&gt;⚡ Главное преимущество — читаемость: текст остаётся понятным даже без преобразования в итоговый формат.&lt;/li&gt;
+&lt;li&gt;🔧 Также легковесные языки легко конвертируются в HTML, что делает их удобными для публикации в интернете.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа с такими инструментами значительно упрощает процесс создания и оформления текстов, особенно в учебной и профессиональной деятельности.&lt;/p&gt;
+&lt;p&gt;Теперь я могу быстрее оформлять свои заметки и структурировать информацию, что делает обучение более эффективным 📖&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Управление версиями</title>
