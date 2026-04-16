@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio | </title>
+    <link>https://Qurellwii.github.io/ru/tags/portfolio/</link>
+      <atom:link href="https://Qurellwii.github.io/ru/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Qurellwii.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Portfolio</title>
+      <link>https://Qurellwii.github.io/ru/tags/portfolio/</link>
+    </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://Qurellwii.github.io/ru/projects/huho/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://Qurellwii.github.io/ru/projects/huho/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт — важный инструмент для современного исследователя. Он помогает представить научные достижения, публикации и проекты в удобной и структурированной форме. Одним из популярных решений для создания такого сайта является &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-hugo-academic&#34;&gt;⚙️ Что такое Hugo Academic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; (ныне известная как тема Wowchemy для Hugo) — это готовое решение для создания академических сайтов. Оно построено на статическом генераторе сайтов &lt;strong&gt;Hugo&lt;/strong&gt;, который отличается высокой скоростью работы и простотой использования.&lt;/p&gt;
+&lt;p&gt;С помощью этого инструмента можно быстро развернуть сайт без глубоких знаний веб-разработки.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-возможности&#34;&gt;🧩 Основные возможности&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Публикация научных статей и препринтов&lt;/li&gt;
+&lt;li&gt;📚 Удобное отображение списка публикаций&lt;/li&gt;
+&lt;li&gt;🧑‍🏫 Разделы с информацией о преподавании и опыте&lt;/li&gt;
+&lt;li&gt;🗂 Поддержка проектов и портфолио&lt;/li&gt;
+&lt;li&gt;📊 Интеграция с Google Scholar и другими научными сервисами&lt;/li&gt;
+&lt;li&gt;🌍 Адаптивный дизайн для разных устройств&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-преимущества&#34;&gt;🛠 Преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ Высокая скорость загрузки благодаря статической генерации&lt;/li&gt;
+&lt;li&gt;🎨 Гибкая настройка внешнего вида&lt;/li&gt;
+&lt;li&gt;🔧 Простота развертывания (например, через GitHub Pages)&lt;/li&gt;
+&lt;li&gt;🧠 Удобное управление контентом через Markdown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🚀 Итог&lt;/h2&gt;
+&lt;p&gt;Использование Hugo Academic позволяет создать профессиональный сайт научного работника с минимальными затратами времени. Это эффективный способ представить себя в академическом сообществе и повысить видимость своих исследований.&lt;/p&gt;
+&lt;p&gt;Создание такого сайта — это инвестиция в личный бренд и научную карьеру 📈&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

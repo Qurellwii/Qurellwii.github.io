@@ -54,7 +54,7 @@
       href="https://Qurellwii.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://Qurellwii.github.io/ru/tags/academic/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://Qurellwii.github.io/ru/tags/academic/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://Qurellwii.github.io/tags/academic/"
@@ -63,6 +63,52 @@
       hreflang="ru"
       href="https://Qurellwii.github.io/ru/tags/academic/"
     /></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/tags/data-science/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/tags/hugo/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Qurellwii.github.io/tags/hugo/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://Qurellwii.github.io/ru/tags/hugo/"
+    /></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/tags/portfolio/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/tags/programming/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/publications/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Qurellwii.github.io/publications/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://Qurellwii.github.io/ru/publications/"
+    /></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/tags/python/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/tags/scientific-computing/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/tags/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Qurellwii.github.io/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://Qurellwii.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/tags/web-development/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/projects/huho/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Qurellwii.github.io/ru/publications/04/</loc><lastmod>2026-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://Qurellwii.github.io/ru/blog/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -78,31 +124,11 @@
   <url>
     <loc>https://Qurellwii.github.io/ru/tags/documentation/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Qurellwii.github.io/ru/publications/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Qurellwii.github.io/publications/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Qurellwii.github.io/ru/publications/"
-    /></url>
-  <url>
     <loc>https://Qurellwii.github.io/ru/tags/rudn/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://Qurellwii.github.io/ru/tags/student-life/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://Qurellwii.github.io/ru/tags/study-tips/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://Qurellwii.github.io/ru/tags/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Qurellwii.github.io/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Qurellwii.github.io/ru/tags/"
-    /></url>
   <url>
     <loc>https://Qurellwii.github.io/ru/blog/03/</loc><lastmod>2026-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -198,56 +224,6 @@
       rel="alternate"
       hreflang="ru"
       href="https://Qurellwii.github.io/ru/slides/"
-    /></url>
-  <url>
-    <loc>https://Qurellwii.github.io/ru/tags/hugo/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Qurellwii.github.io/tags/hugo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Qurellwii.github.io/ru/tags/hugo/"
-    /></url>
-  <url>
-    <loc>https://Qurellwii.github.io/ru/tags/hugoblox/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Qurellwii.github.io/tags/hugoblox/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Qurellwii.github.io/ru/tags/hugoblox/"
-    /></url>
-  <url>
-    <loc>https://Qurellwii.github.io/ru/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Qurellwii.github.io/projects/pandas/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Qurellwii.github.io/ru/projects/pandas/"
-    /></url>
-  <url>
-    <loc>https://Qurellwii.github.io/ru/projects/pytorch/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Qurellwii.github.io/projects/pytorch/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Qurellwii.github.io/ru/projects/pytorch/"
-    /></url>
-  <url>
-    <loc>https://Qurellwii.github.io/ru/projects/scikit/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Qurellwii.github.io/projects/scikit/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Qurellwii.github.io/ru/projects/scikit/"
     /></url>
   <url>
     <loc>https://Qurellwii.github.io/ru/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
